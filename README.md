@@ -1,7 +1,7 @@
 # DoneWithIt
-React native app developed during react-native course
+React native app developed using react-native & expo.
 
-Example app, can be run simple using given command
+It can be run simple using given command
 * yarn install
 * expo start (for plaform specific run command, check package.json)
 
